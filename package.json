@@ -29,7 +29,8 @@
         "mime": "*"
     },
     "optionalDependencies":{
-        "iconv": "*"
+        "iconv": "*",
+        "node-icu-charset-detector": "0.0.7"
     },
     "devDependencies": {
         "nodeunit": "*"
