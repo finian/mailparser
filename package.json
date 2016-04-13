@@ -24,13 +24,13 @@
         }
     ],
     "dependencies": {
-        "mimelib": ">=0.2.6",
-        "encoding": ">=0.1.4",
-        "mime": "*"
+        "mimelib": "0.2.19",
+        "encoding": "0.1.12",
+        "mime": "1.3.4"
     },
     "optionalDependencies":{
-        "iconv": "*",
-        "node-icu-charset-detector": "0.0.7"
+        "iconv": "2.1.0",
+        "node-icu-charset-detector": "0.1.4"
     },
     "devDependencies": {
         "nodeunit": "*"
